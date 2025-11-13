@@ -40,4 +40,6 @@ Focuses on payment behavior of individual doctors.
 
 ---
 ### 💾 Files Included
-- `OpenPayments_Dashboard.pbix` — Power BI report containing both dashboards   
+ [Download CMS.pbix](https://github.com/anju157/CMS-Doctor-Analytics/raw/main/CMS.pbix)  
+Open in **Power BI Desktop** to explore the dashboards interactively.
+
